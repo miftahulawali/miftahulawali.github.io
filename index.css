@@ -1,0 +1,56 @@
+.img{
+	width: 5%
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.judul1{
+	font-size: 3em;
+	font-family: Roboto;
+	text-align: center;
+	color: red;
+	padding: 1cm 1cm 1cm 1cm;
+	margin-right: 4px;
+}
+
+.judul2{
+	font-size: 2em;
+	font-family: Roboto;
+	text-align: center;
+	color: green;
+	padding: 1cm 1cm 1cm 1cm;
+}
+
+.isi1{
+	font-size: 14pt;
+	font-family: Opens+Sans;
+	text-align: left;
+	letter-spacing: 3px;
+	color: aqua;
+}
+
+.isi2{
+	font-size: 12pt;
+	font-family: Source+Sans+Pro;
+	text-align: right;
+	letter-spacing: 2px;
+	color: pink;
+}
+
+.isi3{
+	font-size: 11pt;
+	font-family: Source+Sans+Pro;
+	text-align: right;
+	letter-spacing: 2px;
+}
+
+.warna-background{
+	background-color: silver;
+}
+
+.border{
+	border-color: red;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 50%;
+}
